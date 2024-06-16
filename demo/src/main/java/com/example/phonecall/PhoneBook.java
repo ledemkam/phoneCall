@@ -23,6 +23,7 @@ public class PhoneBook {
 		System.out.println("Nachname: " + userLastName);
 		System.out.println("Vorname: " + userFirstName);
 		System.out.println("Telefonnummer: " + userPhoneNumber);
+		System.out.println("Kontakt: " + newContact.toString());
 
 		sc.close();
 
